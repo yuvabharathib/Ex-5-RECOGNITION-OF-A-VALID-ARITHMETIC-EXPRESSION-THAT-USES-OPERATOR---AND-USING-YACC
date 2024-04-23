@@ -1,4 +1,4 @@
-# Ex-5-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR---AND-USING-YACC
+# Ex-5-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 # Date:
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
